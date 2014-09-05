@@ -7,5 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "izhongao@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhongao/wechat-handler.git"
+  },
+  "keywords": [
+    "微信",
+    "wechat",
+    "t",
+    "wechat-handler",
+    "webot"
+  ],
+  "bugs": {
+    "url": "https://github.com/zhongao/wechat-handler/issues"
+  },
+  "homepage": "https://github.com/zhongao/wechat-handler"
 }
