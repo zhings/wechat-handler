@@ -1,0 +1,11 @@
+{
+  "name": "wechat-handler",
+  "version": "0.0.0",
+  "description": "微信公众平台消息处理程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "izhongao@gmail.com",
+  "license": "MIT"
+}
